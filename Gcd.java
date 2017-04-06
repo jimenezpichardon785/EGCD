@@ -1,5 +1,4 @@
 
-package gcd;
 import java.util.Scanner;
 import java.lang.Math;
 import java.util.InputMismatchException;
